@@ -1,14 +1,3 @@
-# webapi.py
-
-# Starter code for assignment 4 in ICS 32
-# Programming with Software Libraries in Python
-
-# Replace the following placeholders with your information.
-
-# Isai
-# Isaip@uci.edu
-# 75292336
-
 import urllib, json
 from urllib import request,error
 from abc import ABC, abstractmethod
